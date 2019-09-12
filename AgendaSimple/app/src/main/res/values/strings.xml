@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AgendaSimple</string>
+    <string name="btnNuevo">Agregar nuevo contacto</string>
+    <string name="btnGuardar">Guardar</string>
+    <string name="etUsuario">Usuario</string>
+    <string name="etEmail">Email</string>
+    <string name="etTwitter">Twitter</string>
+    <string name="etTelefono">Telefono</string>
+    <string name="etFecha">Fecha Nac.</string>
+    <string name="lblReceptor">Todo</string>
+</resources>
